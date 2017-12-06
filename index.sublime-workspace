@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"products"
+			],
+			[
+				"re",
+				"restful"
+			],
+			[
+				"TBD",
+				"TBD-UAT"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"to",
+				"todoController"
+			],
+			[
+				"su",
+				"success_msg"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"c",
+				"candidatePassword"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"e",
+				"exports"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"p",
+				"password2"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"sta",
+				"Static"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"f",
+				"flash"
+			],
+			[
+				"mono",
+				"mongodb"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"say",
+				"sayBye"
+			],
+			[
+				"tim",
+				"timer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Angular/meeting_room/index.html",
+		"/E/Angular/meeting_room/postrequest.js",
+		"/E/Angular/meeting_room/codebase/dhtmlxscheduler.js",
+		"/E/Angular/meeting_room/hello.js",
+		"/E/NodeJs/rest/models/product.js",
+		"/E/NodeJs/rest/routes/api.js",
+		"/E/NodeJs/rest/server.js",
+		"/E/NodeJs/rest/package.json",
+		"/E/NodeJs/node-js-playlist/public/assets/styles.css",
+		"/E/NodeJs/node-js-playlist/public/assets/todo-list.js",
+		"/E/NodeJs/node-js-playlist/views/todo.ejs",
+		"/E/NodeJs/node-js-playlist/app.js",
+		"/E/NodeJs/node-js-playlist/controllers/todoController.js",
+		"/C/Users/msk/Downloads/projetAzza/Seller.cpp",
+		"/C/Users/msk/Downloads/projetAzza/main.cpp",
+		"/C/Users/msk/Downloads/projetAzza/Database.cpp",
+		"/C/Users/msk/Downloads/projetAzza/Database.h",
+		"/C/Users/msk/Downloads/projetAzza/Product.h",
+		"/C/Users/msk/Downloads/projetAzza/CPU.cpp",
+		"/C/Users/msk/Downloads/projetAzza/Product.cpp",
+		"/C/Users/msk/Downloads/projetAzza/CMakeLists.txt",
+		"/C/Users/msk/Downloads/projetAzza/Seller.h",
+		"/E/NodeJs/node-js-playlist/public/assets/logo.png",
+		"/E/NodeJs/node-js-playlist/package.json",
+		"/E/NodeJs/clientServerModule/httpserver/server.js",
+		"/E/NodeJs/clientServerModule/httpclient/client.js",
+		"/E/NodeJs/clientServerModule/httpclient/package.json",
+		"/E/NodeJs/loginapp/routes/users.js",
+		"/E/NodeJs/loginapp/package.json",
+		"/E/NodeJs/loginapp/views/layouts/layout.handlebars",
+		"/E/NodeJs/loginapp/views/index.handlebars",
+		"/E/NodeJs/loginapp/public/css/style.css",
+		"/E/NodeJs/loginapp/models/user.js",
+		"/E/NodeJs/loginapp/views/register.handlebars",
+		"/E/NodeJs/loginapp/views/login.handlebars",
+		"/E/NodeJs/loginapp/app.js",
+		"/E/NodeJs/loginapp/routes/index.js",
+		"/E/NodeJs/nodejs-database/mysql/package.json",
+		"/E/NodeJs/nodejs-database/mysql/script.js",
+		"/E/NodeJs/nodejs-database/package.json",
+		"/E/NodeJs/modules/count.js",
+		"/E/NodeJs/modules/require.js",
+		"/E/NodeJs/functionExpressions/funcExpression.js",
+		"/E/NodeJs/functionExpressions/funcAsParameter.js",
+		"/E/NodeJs/dirFileName.js",
+		"/E/NodeJs/clearInterval.js",
+		"/E/NodeJs/setInterval.js",
+		"/E/NodeJs/app.js",
+		"/E/NodeJs/setInterval"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dhx_cal_data",
+			"dhx_save_btn",
+			"icon_save",
+			"dhx_save_btn",
+			"Save",
+			"dhx_cal_data",
+			"dhx_cal_tab",
+			"dhx_cal_tab active",
+			"dhx_cal_date",
+			"hello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

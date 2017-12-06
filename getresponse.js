@@ -5,3 +5,9 @@ angular.module('demo', [])
             $scope.greeting = response.data;
         });
 });
+$(document).ready(function(){
+			   $('#roomselect').change(function () {
+			    var selection = this.value; //grab the value selected
+			   alert(selection);
+				}); 
+			});
